@@ -25,8 +25,8 @@
 const nicolasOliveira = {
   formacao: "Inteligência Artificial @ Biopark",
   foco: ["IA & Machine Learning", "Full Stack Development", "Automação de Testes"],
-  hackathons: "🏆 Participante e premiado em competições de inovação",
-  eletronica: "Arduino e prototipagem de hardware 🔌",
+  hackathons: "Participante e premiado em competições de inovação",
+  eletronica: "Arduino e prototipagem de hardware",
   motto: "Não espere Excelência em algo que não te custou esforço"
 };
 ```
@@ -37,7 +37,7 @@ const nicolasOliveira = {
 <tr>
 <td align="center" width="200">
 
-🎓<br>
+<br>
 <b>Inteligência Artificial</b><br>
 Estudante no Biopark
 
@@ -45,7 +45,7 @@ Estudante no Biopark
 
 <td align="center" width="200">
 
-🏆<br>
+<br>
 <b>Hackathons</b><br>
 Participante e premiado
 
@@ -53,7 +53,7 @@ Participante e premiado
 
 <td align="center" width="200">
 
-🔌<br>
+<br>
 <b>Hardware & IoT</b><br>
 Arduino e eletrônica
 
@@ -65,7 +65,7 @@ Arduino e eletrônica
 
 <td align="center" width="200">
 
-💡<br>
+<br>
 <b>Inovação</b><br>
 Tecnologia como paixão
 
@@ -73,7 +73,7 @@ Tecnologia como paixão
 
 <td align="center" width="200">
 
-🚀<br>
+<br>
 <b>Aprendizado</b><br>
 Sempre construindo projetos
 
@@ -81,7 +81,7 @@ Sempre construindo projetos
 
 <td align="center" width="200">
 
-🤖<br>
+<br>
 <b>IA & Desenvolvimento</b><br>
 Criando soluções inteligentes
 
@@ -147,6 +147,6 @@ Criando soluções inteligentes
 
 </a>
 
-<p align="center"><i>💜 Feito com código, e café💚</i></p>
+<p align="center"><i>Feito com código, e café ☕️</i></p>
 
 </div>
