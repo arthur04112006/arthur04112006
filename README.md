@@ -86,22 +86,13 @@ const nicolasOliveira = {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:9D00FF&height=3&section=header" width="100%"/>
 </div>
 
-<h2 align="center">🚀 Projetos em Destaque</h2>
+<div align="center">
 
-<table align="center">
-<tr>
-<td width="50%"><a href="https://github.com/arthur04112006/FinancePlanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur04112006&repo=FinancePlanner&theme=radical&title_color=39FF14&icon_color=9D00FF&text_color=FFFFFF&bg_color=45,0D0221,1B0338&border_color=9D00FF" width="100%" alt="FinancePlanner"/></a></td>
-<td width="50%"><a href="https://github.com/arthur04112006/Hackathour-Cataratas-2026"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur04112006&repo=Hackathour-Cataratas-2026&theme=radical&title_color=39FF14&icon_color=9D00FF&text_color=FFFFFF&bg_color=45,0D0221,1B0338&border_color=9D00FF" width="100%" alt="Hackathon Cataratas 2026"/></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/arthur04112006/lumina-folio-aura"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur04112006&repo=lumina-folio-aura&theme=radical&title_color=39FF14&icon_color=9D00FF&text_color=FFFFFF&bg_color=45,0D0221,1B0338&border_color=9D00FF" width="100%" alt="lumina-folio-aura"/></a></td>
-<td width="50%"><a href="https://github.com/arthur04112006/Pharm-Assist-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur04112006&repo=Pharm-Assist-&theme=radical&title_color=39FF14&icon_color=9D00FF&text_color=FFFFFF&bg_color=45,0D0221,1B0338&border_color=9D00FF" width="100%" alt="Pharm-Assist"/></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/arthur04112006/sprint-tracker-hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur04112006&repo=sprint-tracker-hub&theme=radical&title_color=39FF14&icon_color=9D00FF&text_color=FFFFFF&bg_color=45,0D0221,1B0338&border_color=9D00FF" width="100%" alt="sprint-tracker-hub"/></a></td>
-<td width="50%"><a href="https://github.com/Wessel2007/Gate-Vision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Wessel2007&repo=Gate-Vision&theme=radical&title_color=39FF14&icon_color=9D00FF&text_color=FFFFFF&bg_color=45,0D0221,1B0338&border_color=9D00FF" width="100%" alt="Gate-Vision"/></a></td>
-</tr>
-</table>
+<a href="https://portifolio-nine-mauve-13.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Meu%20Portfólio-Arthur%20Nicolas-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D00FF,100:39FF14&height=3&section=header" width="100%"/>
