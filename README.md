@@ -31,11 +31,66 @@ const nicolasOliveira = {
 };
 ```
 
-- 🎓 Estudante de **Inteligência Artificial** no **Biopark**
-- 🏆 Participante e premiado em **hackathons**
-- 🔌 Experiência prática com **Arduino** e eletrônica
-- 💡 Apaixonado por **tecnologia, IA e inovação**
-- 🚀 Sempre construindo, testando e aprendendo algo novo
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="200">
+
+🎓<br>
+<b>Inteligência Artificial</b><br>
+Estudante no Biopark
+
+</td>
+
+<td align="center" width="200">
+
+🏆<br>
+<b>Hackathons</b><br>
+Participante e premiado
+
+</td>
+
+<td align="center" width="200">
+
+🔌<br>
+<b>Hardware & IoT</b><br>
+Arduino e eletrônica
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="200">
+
+💡<br>
+<b>Inovação</b><br>
+Tecnologia como paixão
+
+</td>
+
+<td align="center" width="200">
+
+🚀<br>
+<b>Aprendizado</b><br>
+Sempre construindo projetos
+
+</td>
+
+<td align="center" width="200">
+
+🤖<br>
+<b>IA & Desenvolvimento</b><br>
+Criando soluções inteligentes
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D00FF,100:39FF14&height=3&section=header" width="100%"/>
