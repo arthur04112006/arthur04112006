@@ -47,8 +47,6 @@ const nicolasOliveira = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nodejs,html,css,postgres,supabase,git,github,docker" />
-
 </div>
 
 <p align="center"><strong>Linguagens</strong></p>
@@ -59,6 +57,7 @@ const nicolasOliveira = {
 <p align="center"><strong>Frameworks & Runtime</strong></p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nodejs"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
 </p>
 
 <p align="center"><strong>Banco de Dados</strong></p>
@@ -74,7 +73,7 @@ const nicolasOliveira = {
 
 <p align="center"><strong>Testes & Automação</strong></p>
 <p align="center">
-<img src="https://img.shields.io/badge/Cherking-39FF14?style=for-the-badge&logo=Gherking&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Gherking-39FF14?style=for-the-badge&logo=Gherking&logoColor=000000"/>
 <img src="https://skillicons.dev/icons?i=selenium"/>
 <img src="https://img.shields.io/badge/Cucumber-39FF14?style=for-the-badge&logo=Cucumber&logoColor=000000"/>
 </p>
