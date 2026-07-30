@@ -1,268 +1,131 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Arthur+Nicolas;Full+Stack+Developer;Artificial+Intelligence;Automation+Engineer;Welcome+to+ArthurOS"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/SYSTEM-ArthurOS-8A2BE2?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/LOCATION-Brazil-39FF14?style=for-the-badge&labelColor=0D1117"/>
-
-</div>
-
-<br>
-
-```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   █████╗ ██████╗ ████████╗██╗  ██╗██╗   ██╗██████╗  ██████╗ ███████╗         ║
-║  ██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║   ██║██╔══██╗██╔═══██╗██╔════╝         ║
-║  ███████║██████╔╝   ██║   ███████║██║   ██║██████╔╝██║   ██║███████╗         ║
-║  ██╔══██║██╔══██╗   ██║   ██╔══██║██║   ██║██╔══██╗██║   ██║╚════██║         ║
-║  ██║  ██║██║  ██║   ██║   ██║  ██║╚██████╔╝██║  ██║╚██████╔╝███████║         ║
-║  ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝         ║
-║                                                                              ║
-║                  FULL STACK • AI • AUTOMATION • WEB                          ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-```console
-arthur@github:~$ boot
-```
-
-```text
-> Initializing ArthurOS v1.0...
-
-[████████████████████] Frontend
-[████████████████████] Backend
-[████████████████████] Databases
-[████████████████████] Automation
-[████████████████████] Artificial Intelligence
-
-System Ready.
-
-Welcome, visitor.
-```
-
----
-
-```console
-arthur@github:~$ whoami
-```
-
-```text
-╭──────────────────────────────────────────────────────────────╮
-│ NAME                                                         │
-│ Arthur Nicolas                                               │
-├──────────────────────────────────────────────────────────────┤
-│ ROLE                                                         │
-│ • Full Stack Developer                                       │
-│ • Artificial Intelligence Student                            │
-│ • Automation Engineer                                        │
-├──────────────────────────────────────────────────────────────┤
-│ FOCUS                                                        │
-│ Web Development                                              │
-│ Artificial Intelligence                                      │
-│ Test Automation                                              │
-│ Computer Vision                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
----
-
-```console
-arthur@github:~$ ls stack
-```
+<!--
+  Troque arthur04112006  (nas seções "GitHub Stats", "Streak" e "Troféus")
+  pelo seu usuário do GitHub para essas seções ficarem ativas.
+-->
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,mysql,postgres,git,java&theme=dark"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:9D00FF,100:39FF14&height=220&section=header&text=Nicolas Oliveira&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%" alt="banner"/>
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=Estudante+de+Intelig%C3%AAncia+Artificial+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Apaixonado+por+Programa%C3%A7%C3%A3o+e+Inova%C3%A7%C3%A3o+%F0%9F%9A%80;Vencedor+de+Hackathons+%F0%9F%8F%86;Sempre+Aprendendo+%F0%9F%93%9A" alt="typing-svg"/>
 
-<img src="https://img.shields.io/badge/YOLO-39FF14?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Selenium-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power_BI-39FF14?style=for-the-badge"/>
+<br>
+
+[![Email](https://img.shields.io/badge/Email-9D00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nic.oliveira.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/nicolas-oliveira-545b1939a/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-9D00FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-nine-mauve-13.vercel.app)
+
+<img src="https://komarev.com/ghpvc/?username=arthur04112006 &color=39FF14&style=for-the-badge&label=Visualizações" alt="visitor badge"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:9D00FF&height=3&section=header" width="100%"/>
 
 </div>
 
----
+<h2 align="center">🧠 Sobre Mim</h2>
 
-```console
-arthur@github:~$ system_status
+```javascript
+const nicolasOliveira = {
+  formacao: "Inteligência Artificial @ Biopark",
+  foco: ["IA & Machine Learning", "Full Stack Development", "Automação de Testes"],
+  hackathons: "🏆 Participante e premiado em competições de inovação",
+  eletronica: "Arduino e prototipagem de hardware 🔌",
+  motto: "Programar não é trabalho, é paixão."
+};
 ```
 
-```text
-┌──────────────────────────────────────────────┐
-│ Frontend                  ● ONLINE           │
-│ Backend                   ● ONLINE           │
-│ Database                  ● ONLINE           │
-│ Automation                ● ONLINE           │
-│ AI                        ● TRAINING         │
-│ Coffee                    ● REQUIRED         │
-└──────────────────────────────────────────────┘
-```
+- 🎓 Estudante de **Inteligência Artificial** no **Biopark**
+- 🏆 Participante e premiado em **hackathons**
+- 🔌 Experiência prática com **Arduino** e eletrônica
+- 💡 Apaixonado por **tecnologia, IA e inovação**
+- 🚀 Sempre construindo, testando e aprendendo algo novo
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D00FF,100:39FF14&height=3&section=header" width="100%"/>
+</div>
 
-```console
-arthur@github:~$ featured_projects
-```
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<table>
+<p align="center"><strong>Linguagens</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-39FF14?style=for-the-badge&logo=html5&logoColor=000000"/>
+<img src="https://img.shields.io/badge/CSS3-9D00FF?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/JavaScript-39FF14?style=for-the-badge&logo=javascript&logoColor=000000"/>
+<img src="https://img.shields.io/badge/PHP-9D00FF?style=for-the-badge&logo=php&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Java-9D00FF?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/>
+</p>
+
+<p align="center"><strong>Frameworks & Runtime</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/React-39FF14?style=for-the-badge&logo=react&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Node.js-9D00FF?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF"/>
+</p>
+
+<p align="center"><strong>Banco de Dados</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-39FF14?style=for-the-badge&logo=mysql&logoColor=000000"/>
+<img src="https://img.shields.io/badge/PostgreSQL-9D00FF?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Supabase-39FF14?style=for-the-badge&logo=supabase&logoColor=000000"/>
+</p>
+
+<p align="center"><strong>IA & Dados</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/YOLO-9D00FF?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Power_BI-39FF14?style=for-the-badge&logo=powerbi&logoColor=000000"/>
+</p>
+
+<p align="center"><strong>Testes & Automação</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Selenium-9D00FF?style=for-the-badge&logo=selenium&logoColor=FFFFFF"/>
+</p>
+
+<p align="center"><strong>Ferramentas</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Git-39FF14?style=for-the-badge&logo=git&logoColor=000000"/>
+</p>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:9D00FF&height=3&section=header" width="100%"/>
+</div>
+
+<h2 align="center">🚀 Projetos em Destaque</h2>
+
+<table align="center">
 <tr>
-
-<td width="50%" valign="top">
-
-### 💰 Finance Planner
-
-Personal finance platform.
-
-**Tech**
-
-`React` `JavaScript` `CSS`
-
-<a href="https://github.com/arthur04112006/FinancePlanner">
-<img src="https://img.shields.io/badge/OPEN-39FF14?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏆 Hackathour Cataratas
-
-Hackathon project.
-
-**Tech**
-
-`React`
-
-<a href="https://github.com/arthur04112006/Hackathour-Cataratas-2026">
-<img src="https://img.shields.io/badge/OPEN-8A2BE2?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
+<td width="50%"><a href="https://github.com/arthur04112006/FinancePlanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur04112006&repo=FinancePlanner&theme=radical&title_color=39FF14&icon_color=9D00FF&text_color=FFFFFF&bg_color=45,0D0221,1B0338&border_color=9D00FF" width="100%" alt="FinancePlanner"/></a></td>
+<td width="50%"><a href="https://github.com/arthur04112006/Hackathour-Cataratas-2026"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur04112006&repo=Hackathour-Cataratas-2026&theme=radical&title_color=39FF14&icon_color=9D00FF&text_color=FFFFFF&bg_color=45,0D0221,1B0338&border_color=9D00FF" width="100%" alt="Hackathon Cataratas 2026"/></a></td>
 </tr>
-
 <tr>
-
-<td valign="top">
-
-### ✨ Lumina Folio Aura
-
-Interactive Landing Page.
-
-**Tech**
-
-`HTML` `CSS` `JavaScript`
-
-<a href="https://github.com/arthur04112006/lumina-folio-aura">
-<img src="https://img.shields.io/badge/OPEN-39FF14?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-<td valign="top">
-
-### 💊 Pharm Assist
-
-Pharmacy management solution.
-
-**Tech**
-
-`React` `PostgreSQL`
-
-<a href="https://github.com/arthur04112006/Pharm-Assist-">
-<img src="https://img.shields.io/badge/OPEN-8A2BE2?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
+<td width="50%"><a href="https://github.com/arthur04112006/lumina-folio-aura"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur04112006&repo=lumina-folio-aura&theme=radical&title_color=39FF14&icon_color=9D00FF&text_color=FFFFFF&bg_color=45,0D0221,1B0338&border_color=9D00FF" width="100%" alt="lumina-folio-aura"/></a></td>
+<td width="50%"><a href="https://github.com/arthur04112006/Pharm-Assist-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur04112006&repo=Pharm-Assist-&theme=radical&title_color=39FF14&icon_color=9D00FF&text_color=FFFFFF&bg_color=45,0D0221,1B0338&border_color=9D00FF" width="100%" alt="Pharm-Assist"/></a></td>
 </tr>
-
 <tr>
-
-<td valign="top">
-
-### 📊 Sprint Tracker Hub
-
-Agile sprint management.
-
-**Tech**
-
-`React` `PostgreSQL`
-
-<a href="https://github.com/arthur04112006/sprint-tracker-hub">
-<img src="https://img.shields.io/badge/OPEN-39FF14?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-<td valign="top">
-
-### 🚗 Gate Vision
-
-License Plate Recognition using YOLO.
-
-**Tech**
-
-`YOLO` `Python`
-
-<a href="https://github.com/Wessel2007/Gate-Vision">
-<img src="https://img.shields.io/badge/OPEN-8A2BE2?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
+<td width="50%"><a href="https://github.com/arthur04112006/sprint-tracker-hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur04112006&repo=sprint-tracker-hub&theme=radical&title_color=39FF14&icon_color=9D00FF&text_color=FFFFFF&bg_color=45,0D0221,1B0338&border_color=9D00FF" width="100%" alt="sprint-tracker-hub"/></a></td>
+<td width="50%"><a href="https://github.com/Wessel2007/Gate-Vision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Wessel2007&repo=Gate-Vision&theme=radical&title_color=39FF14&icon_color=9D00FF&text_color=FFFFFF&bg_color=45,0D0221,1B0338&border_color=9D00FF" width="100%" alt="Gate-Vision"/></a></td>
 </tr>
-
 </table>
 
----
-
-```console
-arthur@github:~$ github_stats
-```
-
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arthur04112006&show_icons=true&theme=github_dark&hide_border=true&title_color=39FF14&icon_color=8A2BE2"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur04112006&layout=compact&theme=github_dark&hide_border=true&title_color=39FF14"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D00FF,100:39FF14&height=3&section=header" width="100%"/>
 </div>
 
-<br>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=arthur04112006 &show_icons=true&theme=radical&title_color=39FF14&icon_color=9D00FF&text_color=FFFFFF&bg_color=45,0D0221,1B0338&border_color=9D00FF" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur04112006 &layout=compact&theme=radical&title_color=39FF14&icon_color=9D00FF&text_color=FFFFFF&bg_color=45,0D0221,1B0338&border_color=9D00FF" width="41%" alt="Top Langs"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=arthur04112006&theme=github-dark&hide_border=true&ring=39FF14&fire=8A2BE2&currStreakLabel=39FF14"/>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=arthur04112006 &theme=dark&background=0D0221&ring=39FF14&fire=9D00FF&currStreakLabel=39FF14&border=9D00FF" width="70%" alt="GitHub Streak"/>
+</p>
 
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=arthur04112006 &theme=matrix&column=6&margin-w=10&margin-h=10" width="90%" alt="Troféus"/>
+</p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:9D00FF,100:0D0221&height=150&section=footer" width="100%" alt="footer"/>
 
-```console
-arthur@github:~$ contact
-```
-
-<div align="center">
-
-<a href="mailto:SEUEMAIL">
-<img src="https://img.shields.io/badge/EMAIL-39FF14?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
-
-<a href="https://linkedin.com/in/SEULINK">
-<img src="https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/arthur04112006">
-<img src="https://img.shields.io/badge/GITHUB-39FF14?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+<p align="center"><i>💜 Feito com código, café e muita curiosidade 💚</i></p>
 
 </div>
