@@ -89,7 +89,7 @@ const nicolasOliveira = {
 <div align="center">
 
 <a href="https://portifolio-nine-mauve-13.vercel.app">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=70&text=🚀%20Acesse%20meu%20Portfólio&fontSize=28&fontColor=ffffff&color=0:6C63FF,100:00D4FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=🚀%20Meu%20Portfólio&fontSize=40&fontColor=ffffff&animation=fadeIn&color=0:6C63FF,100:00D4FF" />
 </a>
 
 </div>
