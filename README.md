@@ -53,31 +53,30 @@ const nicolasOliveira = {
 
 <p align="center"><strong>Linguagens</strong></p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,java"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,java,typescript"/>
 </p>
 
 <p align="center"><strong>Frameworks & Runtime</strong></p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i="/>
-<img src="https://img.shields.io/badge/React-39FF14?style=for-the-badge&logo=react&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Node.js-9D00FF?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs"/>
 </p>
 
 <p align="center"><strong>Banco de Dados</strong></p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgress,supabase"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase"/>
 </p>
 
 <p align="center"><strong>IA & Dados</strong></p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=yolo,powerbi"/>
 <img src="https://img.shields.io/badge/YOLO-9D00FF?style=for-the-badge&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Power_BI-39FF14?style=for-the-badge&logo=powerbi&logoColor=000000"/>
 </p>
 
 <p align="center"><strong>Testes & Automação</strong></p>
 <p align="center">
+<img src="https://img.shields.io/badge/Power_BI-39FF14?style=for-the-badge&logo=Gherking&logoColor=000000"/>
 <img src="https://skillicons.dev/icons?i=selenium"/>
+<img src="https://img.shields.io/badge/Power_BI-39FF14?style=for-the-badge&logo=Cucumber&logoColor=000000"/>
 </p>
 
 <p align="center"><strong>Ferramentas</strong></p>
