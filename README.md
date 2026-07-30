@@ -147,6 +147,6 @@ Criando soluções inteligentes
 
 </a>
 
-<p align="center"><i>💜 Feito com código, café e muita curiosidade 💚</i></p>
+<p align="center"><i>💜 Feito com código, e café💚</i></p>
 
 </div>
