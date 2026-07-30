@@ -110,13 +110,7 @@ const nicolasOliveira = {
 </div>
 
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=arthur04112006 &theme=dark&background=0D0221&ring=39FF14&fire=9D00FF&currStreakLabel=39FF14&border=9D00FF" width="70%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arthur04112006 &theme=matrix&column=6&margin-w=10&margin-h=10" width="90%" alt="Troféus"/>
-</p>
+\
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:9D00FF,100:0D0221&height=150&section=footer" width="100%" alt="footer"/>
 
