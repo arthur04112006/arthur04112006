@@ -27,7 +27,7 @@ const nicolasOliveira = {
   foco: ["IA & Machine Learning", "Full Stack Development", "Automação de Testes"],
   hackathons: "🏆 Participante e premiado em competições de inovação",
   eletronica: "Arduino e prototipagem de hardware 🔌",
-  motto: "Programar não é trabalho, é paixão."
+  motto: "Não espere Excelência em algo que não te custou esforço"
 };
 ```
 
