@@ -43,8 +43,6 @@ const nicolasOliveira = {
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-## 🚀 Tecnologias
-
 <div align="center">
 
 </div>
