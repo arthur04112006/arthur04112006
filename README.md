@@ -20,7 +20,6 @@
  
 </div>
 
-<h2 align="center">🧠 Sobre Mim</h2>
 
 ```javascript
 const nicolasOliveira = {
