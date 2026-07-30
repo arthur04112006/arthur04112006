@@ -74,9 +74,9 @@ const nicolasOliveira = {
 
 <p align="center"><strong>Testes & Automação</strong></p>
 <p align="center">
-<img src="https://img.shields.io/badge/Power_BI-39FF14?style=for-the-badge&logo=Gherking&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Cherking-39FF14?style=for-the-badge&logo=Gherking&logoColor=000000"/>
 <img src="https://skillicons.dev/icons?i=selenium"/>
-<img src="https://skillicons.dev/icons?i=cucumber"/>
+<img src="https://img.shields.io/badge/Cucumber-39FF14?style=for-the-badge&logo=Cucumber&logoColor=000000"/>
 </p>
 
 <p align="center"><strong>Ferramentas</strong></p>
