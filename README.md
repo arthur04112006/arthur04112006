@@ -89,7 +89,7 @@ const nicolasOliveira = {
 <div align="center">
 
 <a href="https://portifolio-nine-mauve-13.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Meu%20Portfólio-Arthur%20Nicolas-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&text=🚀%20Acesse%20meu%20Portfólio&fontSize=28&fontColor=ffffff&color=0:6C63FF,100:00D4FF"/>
 </a>
 
 </div>
