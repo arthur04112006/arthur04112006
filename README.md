@@ -94,9 +94,7 @@ const nicolasOliveira = {
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D00FF,100:39FF14&height=3&section=header" width="100%"/>
-</div>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:9D00FF,100:0D0221&height=150&section=footer" width="100%" alt="footer"/>
