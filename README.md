@@ -1,6 +1,5 @@
 <!--
-  Troque arthur04112006  (nas seções "GitHub Stats", "Streak" e "Troféus")
-  pelo seu usuário do GitHub para essas seções ficarem ativas.
+  SAI ZOIAO, AQUI É FEITO NA MÃO E SEM IA 🖕🏻
 -->
 
 <div align="center">
@@ -143,7 +142,7 @@ Criando soluções inteligentes
 
 <a href="https://portifolio-nine-mauve-13.vercel.app">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:9D00FF,100:0D0221&height=150&section=footer&text=🚀%20Meu%20Portfólio&fontSize=35&fontColor=ffffff&animation=fadeIn&y=50" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:9D00FF,100:0D0221&height=150&section=footer&text=⭐️%20Meu%20Portfólio⭐️&fontSize=35&fontColor=ffffff&animation=fadeIn&y=50" width="100%" alt="footer"/>
 
 </a>
 
