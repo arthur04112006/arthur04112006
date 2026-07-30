@@ -86,19 +86,12 @@ const nicolasOliveira = {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:9D00FF&height=3&section=header" width="100%"/>
 </div>
 
-<div align="center">
-
-<a href="https://portifolio-nine-mauve-13.vercel.app">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=🚀%20Meu%20Portfólio&fontSize=40&fontColor=ffffff&position=absolute&animation=fadeIn&color=0:6C63FF,100:00D4FF" />
-</a>
-
-</div>
-
 <a href="https://portifolio-nine-mauve-13.vercel.app">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:9D00FF,100:0D0221&height=150&section=footer&text=&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:9D00FF,100:0D0221&height=150&section=footer&text=🚀%20Meu%20Portfólio&fontSize=35&fontColor=ffffff&animation=fadeIn&y=80" width="100%" alt="footer"/>
 
 </a>
+
 <p align="center"><i>💜 Feito com código, café e muita curiosidade 💚</i></p>
 
 </div>
