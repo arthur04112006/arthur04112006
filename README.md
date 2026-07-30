@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**arthur04112006/arthur04112006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Arthur+Nicolas;Full+Stack+Developer;Artificial+Intelligence+Student;Building+Ideas+Into+Reality..." />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+```bash
+arthur@github:~$ boot
+```
+
+```text
+██████████████████████████████████████████████
+
+Initializing ArthurOS v1.0...
+
+✔ Loading Frontend
+✔ Loading Backend
+✔ Loading Artificial Intelligence
+✔ Loading Automation
+✔ Loading Databases
+✔ Connecting to GitHub
+
+System Status............. ONLINE
+
+Welcome.
+```
+
+---
+
+```bash
+arthur@github:~$ whoami
+```
+
+```yaml
+name: Arthur Nicolas
+
+country: Brazil
+
+role:
+  - Full Stack Developer
+  - Artificial Intelligence Student
+
+currently_learning:
+  - Advanced React
+  - Artificial Intelligence
+  - Software Architecture
+
+interests:
+  - Web Development
+  - Automation
+  - Computer Vision
+  - UX/UI
+  - APIs
+```
