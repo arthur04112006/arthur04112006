@@ -58,31 +58,32 @@ const nicolasOliveira = {
 
 <p align="center"><strong>Frameworks & Runtime</strong></p>
 <p align="center">
+<img src="https://skillicons.dev/icons?i="/>
 <img src="https://img.shields.io/badge/React-39FF14?style=for-the-badge&logo=react&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Node.js-9D00FF?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF"/>
 </p>
 
 <p align="center"><strong>Banco de Dados</strong></p>
 <p align="center">
-<img src="https://img.shields.io/badge/MySQL-39FF14?style=for-the-badge&logo=mysql&logoColor=000000"/>
-<img src="https://img.shields.io/badge/PostgreSQL-9D00FF?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Supabase-39FF14?style=for-the-badge&logo=supabase&logoColor=000000"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgress,supabase"/>
 </p>
 
 <p align="center"><strong>IA & Dados</strong></p>
 <p align="center">
+<img src="https://skillicons.dev/icons?i=yolo,powerbi"/>
 <img src="https://img.shields.io/badge/YOLO-9D00FF?style=for-the-badge&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Power_BI-39FF14?style=for-the-badge&logo=powerbi&logoColor=000000"/>
 </p>
 
 <p align="center"><strong>Testes & Automação</strong></p>
 <p align="center">
-<img src="https://img.shields.io/badge/Selenium-9D00FF?style=for-the-badge&logo=selenium&logoColor=FFFFFF"/>
+<img src="https://skillicons.dev/icons?i=selenium"/>
 </p>
 
 <p align="center"><strong>Ferramentas</strong></p>
 <p align="center">
-<img src="https://img.shields.io/badge/Git-39FF14?style=for-the-badge&logo=git&logoColor=000000"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </p>
 
 <div align="center">
