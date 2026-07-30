@@ -109,12 +109,6 @@ const nicolasOliveira = {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D00FF,100:39FF14&height=3&section=header" width="100%"/>
 </div>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arthur04112006 &show_icons=true&theme=radical&title_color=39FF14&icon_color=9D00FF&text_color=FFFFFF&bg_color=45,0D0221,1B0338&border_color=9D00FF" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur04112006 &layout=compact&theme=radical&title_color=39FF14&icon_color=9D00FF&text_color=FFFFFF&bg_color=45,0D0221,1B0338&border_color=9D00FF" width="41%" alt="Top Langs"/>
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=arthur04112006 &theme=dark&background=0D0221&ring=39FF14&fire=9D00FF&currStreakLabel=39FF14&border=9D00FF" width="70%" alt="GitHub Streak"/>
