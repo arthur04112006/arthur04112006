@@ -43,14 +43,17 @@ const nicolasOliveira = {
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
+## 🚀 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nodejs,html,css,postgres,supabase,git,github,docker" />
+
+</div>
+
 <p align="center"><strong>Linguagens</strong></p>
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-39FF14?style=for-the-badge&logo=html5&logoColor=000000"/>
-<img src="https://img.shields.io/badge/CSS3-9D00FF?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/JavaScript-39FF14?style=for-the-badge&logo=javascript&logoColor=000000"/>
-<img src="https://img.shields.io/badge/PHP-9D00FF?style=for-the-badge&logo=php&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Java-9D00FF?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,java"/>
 </p>
 
 <p align="center"><strong>Frameworks & Runtime</strong></p>
@@ -107,13 +110,6 @@ const nicolasOliveira = {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D00FF,100:39FF14&height=3&section=header" width="100%"/>
 </div>
 
-## 🚀 Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nodejs,html,css,postgres,supabase,git,github,docker" />
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:9D00FF,100:0D0221&height=150&section=footer" width="100%" alt="footer"/>
 
