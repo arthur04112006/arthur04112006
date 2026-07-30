@@ -97,8 +97,11 @@ const nicolasOliveira = {
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:9D00FF,100:0D0221&height=150&section=footer" width="100%" alt="footer"/>
+<a href="https://portifolio-nine-mauve-13.vercel.app">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:9D00FF,100:0D0221&height=150&section=footer&text=🚀%20Meu%20Portfólio&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" alt="footer"/>
+
+</a>
 <p align="center"><i>💜 Feito com código, café e muita curiosidade 💚</i></p>
 
 </div>
