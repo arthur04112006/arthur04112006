@@ -15,7 +15,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/nicolas-oliveira-545b1939a/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-9D00FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-nine-mauve-13.vercel.app)
 
-<img src="https://komarev.com/ghpvc/?username=arthur04112006 &color=39FF14&style=for-the-badge&label=Visualizações" alt="visitor badge"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:9D00FF&height=3&section=header" width="100%"/>
  
@@ -110,7 +109,6 @@ const nicolasOliveira = {
 </div>
 
 
-\
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:9D00FF,100:0D0221&height=150&section=footer" width="100%" alt="footer"/>
 
